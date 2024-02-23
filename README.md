@@ -10,7 +10,7 @@ country's passport.
 
 ## Meta
 
-More to read:
+More to read ([*](./NOTETOSELF.md)):
 
  - http://gnuplot.sourceforge.net/demo_svg_5.2/pointsize.html
  - https://scipy-cookbook.readthedocs.io/items/Matplotlib_Maps.html
