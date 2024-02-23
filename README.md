@@ -8,6 +8,9 @@ The map shows every country in the color of its real passport.
 The map has been colored by a python script averaging the real image of every
 country's passport.
 
+**NOTE**: with a few modifications the code can be used to create python scripts 
+coloring the world map by simply associating a color with the country code.
+
 ## Meta
 
 More to read ([*](./NOTETOSELF.md)):
